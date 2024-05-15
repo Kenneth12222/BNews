@@ -1,0 +1,17 @@
+#blog{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px 0px;
+
+}
+
+.blog-filter-active{
+    border-bottom: 1px solid #e2d40c;
+}
+
+
+.blog-box:hover{
+    opacity: 0.8;
+    transition: all ease 0.3s;
+}
