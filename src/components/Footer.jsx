@@ -40,7 +40,7 @@ function Footer() {
                             <strong>Contact</strong>
                             <ul>
                                 <li><a href="#">hi@GTN.io</a></li>
-                                <li><a href="#">+123456789</a></li>
+                                <li><a href="#">+254 0742164615</a></li>
                             </ul>
                         </div>
 
@@ -63,8 +63,8 @@ function Footer() {
                         </div>
 
                         <div class="copyright">
-                            <span>Made by GTI</span>
-                            <span>&#169; 2021 GTN</span>
+                            <span>Made by CS</span>
+                            <span>&#169; 2024</span>
                         </div>
                     </div>
                 </div>
