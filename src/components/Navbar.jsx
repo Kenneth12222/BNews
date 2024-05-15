@@ -34,7 +34,7 @@ function Navbar() {
 
         <section id="blog">
           <BlogHeading>
-            <HeaderText>Musing, working, and everything in between.</HeaderText>
+            <HeaderText>Your Daily Dose of Knowledge and Creativity.</HeaderText>
           </BlogHeading>
 
           <BlogFilter>
