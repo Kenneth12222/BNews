@@ -9,8 +9,6 @@ function Footer() {
 
                     <div class="footer-heading">
                         <h4>It's time to stop scrolling.
-                            <br />
-                            Let's create something.
                         </h4>
                         <h3>get in touch.</h3>
                     </div>
